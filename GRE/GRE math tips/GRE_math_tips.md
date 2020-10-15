@@ -41,7 +41,7 @@ of selecting 2 women AND 2 men from the people available?
   * 5!/(3!2!) = 10
   * 15*10 = 150
 
-## Probablity:
+## Probability:
 
 ### Example:
 * 3 red beads, 5 green beads. If 2 beads are picked at random AND without replacement, 
@@ -50,9 +50,9 @@ of selecting 2 women AND 2 men from the people available?
   * AND = multiple
   * OR = add
 
-  1. green and green = 5/8*4/7 = 5/14
-  2. Red and red OR green and green = 5/8*4/7 + 3/8*2/7 = 13/28
-  3. red and green OR green and red = 3/8*5/7 + 5/8*3/7 = 15/28
+  1. green and green = 5/8 X 4/7 = 5/14
+  2. Red and red OR green and green = 5/8 X 4/7 + 3/8 X 2/7 = 13/28
+  3. red and green OR green and red = 3/8 X 5/7 + 5/8 X 3/7 = 15/28
 
 ## Median:
 
@@ -63,3 +63,18 @@ of selecting 2 women AND 2 men from the people available?
 ### What is the median of all the positive integers less than 75?
 * (Biggest + smallest)/2
 *For any consecutive list, median = mean*
+
+### Median of Incomes of 25 people
+
+| Income Range | Frequency |
+| ------------ | --------- |
+| $0-$20k      | 6         |
+| $20k-$40k    | 7         |
+| $40k-$60k    | 7         |
+| $60k-$100k   | 4         |
+| $100k+       | 1         |
+
+#### Median salary in what range?
+
+* (num+1)/2 = 13
+* 13th person is in $20k-$40k range
