@@ -80,4 +80,49 @@
 | lampoon       | ridicule with satire                      | like lambast but poon is lol   |
 | subjugate     | dominate, dragoon, enslave                | like subdue                    |
 | incensed      | angered at something unjust               | incense angers me cuz religion |
-| 
+| transmogrify  | to change completely                      | transexual changes completely  |
+| prerogative   | privilege exclusive to a person/group     | idk                            |
+| approbation   | offical acceptance or agreement; approval | appro val |
+| aphoristic    | terse, witty, concise |      |
+| truculence    | agressiveness, belligerence, pugnacity    |   |
+| apocryphal    | being of questioning authenticity         |   |
+| cavalier      | haughty disregard of others               | like when lebron left lel  |
+| indignant     | feeling anger over a perceived injustice  |         |
+| stalwart      | dependable, inured to fatigue or hardship | warts are inured into the skin |
+| inured        | made tough my habitual exposure, hardened |            |
+| dissolution   | 1. breakup 2. indulgence in pleasure      | not a solution to a good life  |
+| debauchery    | revelry, excessive drinking/promiscuity   | sounds like it tbh |
+| demure        | modest and shy                            |      |
+| mordant       | biting and caustic in thought/style       |      |
+| rakish        | 1. stylish 2. unconventional              | rakes are not sylish nor uncon |
+| delusion      | false idea that one believes is true      | like "illusion" |
+| wary          | cautious, not trusting                    | NOT AWARE, cautious   |
+| halcyon       | peace and prosperity                      | like that fractal song |
+| inimical      | not friendly                              | not michael            |
+| jocular       | jokes and good humor                      | joke ular   |
+| flush         | to be in abundance                        | flush makes abundant water |
+| lascivious    | lewd, feeling an offensive sex desire     | idk   |
+| unconscionable| unreasonable, unscrupulous                | without conscience         |
+| proponent     | advocate                                  | not "opponent"  |
+| atavism       | THROWBACCCKKKK                            | idk    |
+| tactful       | considerate in dealing with others        | tact, diplomacy, idk  |
+| portentous    | ominously prophetic                       | idk |
+| overweening   | arrogant, presumptuous                    | overly swinging your dick around|
+| unprepossessng| unattractive, bad first impression        | possessing unpredilect qualitites|
+| appurtenant   | supportive                                | tenant adds financial support   |
+| dilatory      | wasting time          | dunno  |
+| hoary         | ancient    |    |
+| impetuous     | undue haste and lack of thought           | not pet lovers have no brain idk |
+| pecuniary     | involving money                           |   |
+| ravenous      | extremely hungry                          | like ravens, they will devour  |
+| erratic       | unpredictable, strange, unconventional    | attics are strange    |
+| paucity       | a lack of something                       |    |
+| moot          | open to argument or debate, petty indecision |    |
+| penurious     | parsimonious, miserly, poor               | needing pennies   |
+| errant        | to be wandering, not on a straight path   |  |
+| raffish       | carefree unconventionality                |   |
+| surreptitious | stealthy, trying to avoid detection       | sir reptile chameleon   |
+| byzantine     | intricate and complex                     | the empire was complex idk |
+| redress       | an act of making something right          | kinda straightforward |
+| asperity      | harshness of manner                       | aspergers is harsh |
+| aboveboard    | candid, open                              | above closed board lol IDK  |
