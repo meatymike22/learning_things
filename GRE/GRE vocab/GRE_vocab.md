@@ -2,7 +2,6 @@
 
 |      Word     |     Definition                            |   Mnemonic                     |
 |---------------|-------------------------------------------|--------------------------------|
-| repudiate     | refuse to accept, deny, renounce          | refuse?                        |
 | abiding       | lasting a long time, enduring             | bide means stay or remain      |
 | aboveboard    | candid, open                              | above closed board lol IDK  |
 | abstracted    | distracted, inside one's head             | abstract only exists in mind   |
@@ -102,6 +101,7 @@
 | ravenous      | extremely hungry                          | like ravens, they will devour  |
 | recalcitrant  | intractability towards discipline         | in french means to kick back   |
 | redress       | an act of making something right          | kinda straightforward |
+| repudiate     | refuse to accept, deny, renounce          | refuse?                        |
 | rococo        | excessively elaborate, ornate             | coco as a dog is ostentatious  |
 | salubrious    | promoting health                          | salutations = good will/heath  |
 | slovenly      | messy, unkempt, untidy                    | idk                            |

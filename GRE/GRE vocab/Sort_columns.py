@@ -29,7 +29,7 @@ words = {}
 for line in data:
     line_word = reg_word(line)
 
-    if file_line < 5:
+    if file_line < 4:
         pre_words.append((line_word, line))
     else:
         words[line_word] = line
