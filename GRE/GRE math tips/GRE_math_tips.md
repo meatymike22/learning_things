@@ -165,6 +165,21 @@ the way back. If his overall average speed was 8mph, what was his speed on the w
 * 80+8x=120, 8x=40 x = 5 hours
 * 80 miles / 5 hours = _16 mph_
 
+## Divisibility
+
+* For dividing by 3 or 9:
+  _If the number is divisible by the sum of the divisor's digits, then it is divisible_
+
+* For dividing by 6:
+  _Make sure number is divisible by 3 then check if the number is even_
+
+* For dividing by 4:
+  _Make sure the last 2 digits are divisible by 4_
+
+* For dividing by 11
+  _Start at the left most digit, subtract, add, sub, add.... until the last digit. 
+   If its a multiple of 11 u good_
+
 
 ## Difficult Quant Questions
 
