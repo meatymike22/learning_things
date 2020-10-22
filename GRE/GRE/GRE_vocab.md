@@ -2,6 +2,7 @@
 
 |      Word     |     Definition                            |   Mnemonic                     |
 |---------------|-------------------------------------------|--------------------------------|
+| self-effacing | reluctant to draw attention to yourself   |  |
 | abiding       | lasting a long time, enduring             | bide means stay or remain      |
 | aboveboard    | candid, open                              | above closed board lol IDK  |
 | abstracted    | distracted, inside one's head             | abstract only exists in mind   |
@@ -16,11 +17,13 @@
 | atavism       | THROWBACCCKKKK                            | idk    |
 | austere       | stern, nonindulgent, strict               | most stern, idk                |
 | becloud       | to make unclear, to obscure, befog        | to cloud over                  |
+| besotted      | 1. very drunk 2. strongly affectionate | idk |
 | byzantine     | intricate and complex                     | the empire was complex idk |
 | callous       | emotionally hardened                      | like hard skin but brain       |
 | canonical     | conforming to orthodox rules, established | canons are basic lol, idk      |
 | cavalier      | haughty disregard of others               | like when lebron left lel  |
 | choleric      | irascible, angry, passionate, hotheaded   | like cholera, bad news         |
+| conducive     | making a situation or outcome more likely to happen | conductive almost, helps |
 | congenial     | compatible, friendly                      | genial is friendly             |
 | contrite      | sorry, penitent, repentant                | idk                            |
 | cursory       | perfunctory, not thorough, superficial    | cursors go all over the place  |
@@ -29,6 +32,7 @@
 | demure        | modest and shy                            |      |
 | denigrate     | to calumniate, to slander                 | racist word... "to make black" |
 | depravity     | moral perversion                          | deprave = corrupt morally      |
+| despotic      | dictatorial, cruel in an oppressive way   |   |
 | dilatory      | wasting time          | dunno  |
 | discrete      | disparate, distinct, separate,different   | idk                            |
 | disparage     | criticize, express negative opinion       |                                |
@@ -44,9 +48,13 @@
 | erratic       | unpredictable, strange, unconventional    | attics are strange    |
 | evocative     | redolent, reminiscent, *brings to mind*   | evokes memories                |
 | exigent       | urgent                                    | exit gents, gtfo of here       |
+| exorbitant    | greatly exceeding bounds of reason or moderation | ex- orbit of reason |
+| facile        | arrived at without due diligence or care  |   |
+| factious      | dissenting, divided                       | like faction |
 | fawning       | obseqious, overly servile                 | pawn can be a servant?         |
 | flagging      | declining in strength                     | a flag is limp, which is weak  |
 | flush         | to be in abundance                        | flush makes abundant water |
+| genteel       | refinement in taste and manners           |    genteelmen   |
 | gestation     | period when embryo develops               | idk                            |
 | glib          | persuasive in a guile way                 | glib = smooth in 1590s         |
 | halcyon       | peace and prosperity                      | like that fractal song |
@@ -55,19 +63,25 @@
 | hypocrisy     | pretending to be something you arent      | straightforward                |
 | iconoclastic  | unorthodox, skeptical, irreverent         | clash icons                    |
 | ignominious   | disgraceful, opprobrious                  | ignom sounds shitty idk        |
+| imperious     | haughty; feeling arrogant superiority     |   |
 | impetuous     | undue haste and lack of thought           | not pet lovers have no brain idk |
+| improvident   | not given careful consideration            |  idk |
 | incensed      | angered at something unjust               | incense angers me cuz religion |
 | inclement     | severe, of weather                        | bad climate                    |
 | indignant     | feeling anger over a perceived injustice  |         |
+| ineffable     | too sacred to be uttered; defying expression or description |   |
 | inimical      | not friendly                              | not michael            |
-| inured        | made tough my habitual exposure, hardened |            |
+| insipid       | dull and uninteresting                    |   || inured        | made tough my habitual exposure, hardened |            |
+| irresolute    | nonplussed, not sure what to do           | not resolved    |
 | jettison      | to throw out                              | it sounds like it tbh          |
 | jocular       | jokes and good humor                      | joke ular   |
 | judicious     | good judgement, prudent                   | judicial = wise idk            |
 | lampoon       | ridicule with satire                      | like lambast but poon is lol   |
 | languish      | weaken, decline                           | anguish is pain, similar       |
 | lascivious    | lewd, feeling an offensive sex desire     | idk   |
+| leery         | openly distrustful and unwilling to confide |  |
 | libertine     | disregard of morality, sexually           | liberties, TOO free            |
+| lugubrious    | sad                                       | idk |
 | moot          | open to argument or debate, petty indecision |    |
 | mordant       | biting and caustic in thought/style       |      |
 | nepotism      | favoritism to relatives by leaders        | idk                            |
@@ -84,27 +98,35 @@
 | perceptive    | insightful, showing comprehension         | speaks for itself              |
 | perennial     | perpetual, everlasting                    | perennia = millenia            |
 | phlegmatic    | showing little emotion                    | phlegm doesnt have emotions lol|
+| pithy         | concise and full of meaning               |    |
+| pontificate   | talk in a dogmatic & pompous manner       | the words like it means  |
 | portentous    | ominously prophetic                       | idk |
 | precipitous   | hasty, or steep, sheer                    | rain falls fast and tall       |
 | preeminent    | leading, superior, eminent (above others) | preeminent scholar             |
 | prerogative   | privilege exclusive to a person/group     | idk                            |
+| presumptuous  | excessively forward                       |   |
 | pronounced    | obvious, conspicuous, blatant             | PRONOUNCE                      |
 | proponent     | advocate                                  | not "opponent"  |
 | prosaic       | mundane, boring, dull                     | prose means boring             |
+| protean       | taking on different roles; versatile      | like the pokemon ability        |
 | provenance    | birthplace, origination                   | idk                            |
 | prudish       | exaggeratedly proper, puritanical         | dont want to be a prude!       |
 | prurience     | voyeurism, interest in bad things (sex)   | idk                            |
 | puerile       | immature, sophomoric, juvenile            | poo rile, kids are riled and like poo |
+| puissant      | powerful                                  | PWE PWE |
 | querulous     | habitually complaining                    | mimi a bit hehe  (ily)         |        
 | raffish       | carefree unconventionality                |   |
-| rakish        | 1. stylish 2. unconventional              | rakes are not sylish nor uncon |
+| rakish        | 1. not stylish 2. unconventional          | rakes are not sylish nor uncon |
 | ravenous      | extremely hungry                          | like ravens, they will devour  |
 | recalcitrant  | intractability towards discipline         | in french means to kick back   |
 | redress       | an act of making something right          | kinda straightforward |
 | repudiate     | refuse to accept, deny, renounce          | refuse?                        |
 | rococo        | excessively elaborate, ornate             | coco as a dog is ostentatious  |
 | salubrious    | promoting health                          | salutations = good will/heath  |
+| sedulous      | showing dedication, diligence; assiduous  | idk   |
+| serendipity   | instance in which an accidental, fortunate discovery is made |  |
 | slovenly      | messy, unkempt, untidy                    | idk                            |
+| solicitous    | showing attentive interest and concern    |    |
 | sonorous      | full, loud, deep voice                    | son, man has deep voice        |
 | specious      | spurious, false, meretricious, insincere  | i have no clue                 |
 | spontaneity   | elicit natural feelings w/no constraint   |                                |
@@ -123,5 +145,11 @@
 | unadorned     | plain, unembellished        |  |
 | underpin      | support, corroborate                      | wall supports the pin attached |
 | untoward      | improper, unbecoming, inauspicious        | not toward propriety           |
+| urbane        | courteous and refined; debonair           |    |
+| vaunted       | highly or widely praised or boasted about | idk |
 | venial        | forgivable, excusable                     | means the same in french       |
 | wary          | cautious, not trusting                    | NOT AWARE, cautious   |
+| stolid        | impassive, phlegmatic, placid, calm, unemotional |  sounds like it |
+| inured        | accustom someone to something, condition  |     |
+| expatiate     | speak or write at length about            |    |
+| 
