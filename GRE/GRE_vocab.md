@@ -2,8 +2,7 @@
 
 |      Word     |     Definition                            |   Mnemonic                     |
 |---------------|-------------------------------------------|--------------------------------|
-| self-effacing | reluctant to draw attention to yourself   |  |
-| abdicate      | to give up a duty or position     |    |
+| | abdicate      | to give up a duty or position     |    |
 | abiding       | lasting a long time, enduring             | bide means stay or remain      |
 | aboveboard    | candid, open                              | above closed board lol IDK  |
 | abrogate      | to formally revoke an agreement or contract | A BRO GATE NOOOO|
@@ -12,6 +11,7 @@
 | acclaim       | enthusiastic and public praise            | similar to accolades           |
 | acumen        | mental sharpness                       |    |
 | affectation   | unnatural behavior intended to impress |    |
+| alacrity      | liveliness and eagerness               |     |
 | amble         | mosey, walk leisurely, slowly             | ample time!                    |
 | anachronistic | chronologically misplaced                 | chron = time, ana = against    |
 | aphoristic    | terse, witty, concise; with epigram; riposte  |      |
@@ -19,6 +19,7 @@
 | approbation   | offical acceptance or agreement; approval | appro val |
 | appurtenant   | supportive                                | tenant adds financial support   |
 | asperity      | harshness of manner                       | aspergers is harsh |
+| assuage       | mitigate, ameliorate                   |    |
 | atavism       | THROWBACCCKKKK                            | idk    |
 | austere       | stern, nonindulgent, strict               | most stern, idk                |
 | becloud       | to make unclear, to obscure, befog        | to cloud over                  |
@@ -58,6 +59,7 @@
 | dissolution   | 1. breakup 2. indulgence in pleasure      | not a solution to a good life  |
 | docile        | passive, obedient, submissive             | calm                           |
 | dolorous      | sad                                       | guy from GoT was always EDD    |
+| effrontery    | an arrogant attitude that is insulting    |     |
 | elucidate     | to make clear                             | lucid means clear              |
 | enumerate     | specify individually                      | number out                     |
 | equivocate    | be deliberately ambiguous                 | equally vocal in interpretation|
@@ -69,13 +71,15 @@
 | expatiate     | speak or write at length about, descant   |    |
 | expostulate   | dissuade somebody from doing something |   |
 | expropriate   | to take arbitrarily or by force        |    |
-| facetious     | treating serious issues with inappropriate humor; flippant |    || facile        | arrived at without due diligence or care  | fast ill  |
+| facetious     | treating serious issues with inappropriate humor; flippant |    |
+| facile        | arrived at without due diligence or care  | fast ill  |
 | factious      | dissenting, divided                       | like faction |
 | fawning       | obseqious, overly servile                 | pawn can be a servant?         |
 | flagging      | declining in strength                     | a flag is limp, which is weak  |
 | flush         | to be in abundance                        | flush makes abundant water |
 | forbear       | to not do something |  |
 | gambit        | a move in a game or conversation to gain advantage |    |
+| garner        | to gather or gain something            |     |
 | genteel       | refinement in taste and manners           |    genteelmen   |
 | gestation     | period when embryo develops               | idk                            |
 | glib          | persuasive in a guile way                 | glib = smooth in 1590s         |
@@ -109,6 +113,7 @@
 | libertine     | disregard of morality, sexually           | liberties, TOO free            |
 | lugubrious    | sad                                       | idk |
 | martinet      | somebody who demands conformity       | fucking MARTIN  |
+| mettle        | a person's ability to cope well with adversity |  |
 | moot          | open to argument or debate, petty indecision |    |
 | mordant       | biting and caustic in thought/style, acerbic |      |
 | nepotism      | favoritism to relatives by leaders        | idk                            |
@@ -132,6 +137,7 @@
 | pertinacious  | holding firmly to a course of action or set of beliefs |   |
 | phlegmatic    | showing little emotion                    | phlegm doesnt have emotions lol|
 | pithy         | concise and full of meaning               |    |
+| plaintive     | expressive of sorrow or woe            |     |
 | pontificate   | talk in a dogmatic & pompous manner       | the words like it means  |
 | portentous    | ominously prophetic                       | idk |
 | precipitous   | hasty, or steep, sheer                    | rain falls fast and tall       |
@@ -151,6 +157,7 @@
 | quixotic      | wildly idealistic, impractical
 | raffish       | carefree unconventionality                |   |
 | rakish        | 1. not stylish 2. unconventional          | rakes are not sylish nor uncon |
+| rarefy        | to make something less dense; to refine|    |
 | ravenous      | extremely hungry                          | like ravens, they will devour  |
 | recalcitrant  | intractability towards discipline         | in french means to kick back   |
 | redress       | an act of making something right          | kinda straightforward |
@@ -180,6 +187,7 @@
 | tawdry        | tastelessly showy, cheap and shoddy       |    |
 | temporize     | prevaricate to gain time; stall   |  |
 | transmogrify  | to change completely                      | transexual changes completely  |
+| trenchant     | sharp, incisive, forceful, effective   |   |
 | tribulation   | post event difficulty and suffering       | trials and tribulations |
 | trite         | derivative, banal, hackneyed, unoriginal  | idk                            |
 | truculence    | agressiveness, belligerence, pugnacity    |   |
