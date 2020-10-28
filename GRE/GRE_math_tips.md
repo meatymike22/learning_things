@@ -165,6 +165,7 @@ the way back. If his overall average speed was 8mph, what was his speed on the w
 * 80+8x=120, 8x=40 x = 5 hours
 * 80 miles / 5 hours = _16 mph_
 
+
 ## Divisibility
 
 * For dividing by 3 or 9:
@@ -180,6 +181,51 @@ the way back. If his overall average speed was 8mph, what was his speed on the w
   _Start at the left most digit, subtract, add, sub, add.... until the last digit. 
    If its a multiple of 11 u good_
 
+
+## Work Rates
+
+* You can't add times, you *CAN* add rates
+* time and rate always reciprocal
+
+### Mike takes 2 hours to change a lightbulb and John takes 3 hours. If their rates are
+combined, how long will it take for them to change 1 lightbulb?
+
+* M rate = 1LB/2hours
+* J rate = 1LB/3hours
+* MJ rate = 5/6LB per hour
+* MJ time = 6/5 hours per lightbulb or 1 hour 12 min
+
+### Working alone at its constant rate, machine _A_ produces _k_ liters of a chemical in 
+10 minutes. Working alone at its constant rate, machine _B_ produces _k_ liters of a 
+chemical in 10 minutes. Together, how long will they take to product k liters?
+
+* A = k/10
+* B = k/15
+* AB = 3k/30 + 2k/30
+* AB = 5k/30minutes
+* AB time = 6 minutes/ 1 k
+
+### Danya takes 2 hours to paint 1/2 of a wall. Aurelia takes 3 hours for 2. If Danya
+paints for 3 hours then is joined by Aurelie, how long will it take for them to paint
+3 walls?
+
+* D = 1/4W per hour
+* A = 2/3W per hour
+* AD = 3/12Wph + 8/12Wph = 11/12Wph
+9/4 wall = 11/12Wph * T
+T = 27/11 hours
+
+
+## Inequalities
+
+* dont multiply both sides by a variable until you know the sign
+* for adding inequalities, make sure they are in same direction
+
+
+## Square diagonal
+
+The diagonal is X (side length) x sqrt(2) 
+ 
 
 ## Difficult Quant Questions
 
