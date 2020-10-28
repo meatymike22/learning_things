@@ -21,6 +21,7 @@
 | asperity      | harshness of manner                       | aspergers is harsh |
 | assuage       | mitigate, ameliorate                   |    |
 | atavism       | THROWBACCCKKKK                            | idk    |
+| augury        | harbinger, omen                           | damn this one is difficult |
 | austere       | stern, nonindulgent, strict               | most stern, idk                |
 | becloud       | to make unclear, to obscure, befog        | to cloud over                  |
 | besotted      | 1. very drunk 2. strongly affectionate | idk |
@@ -29,6 +30,7 @@
 | canonical     | conforming to orthodox rules, established | canons are basic lol, idk      |
 | capitulate    | to surrender, to give up               |  |
 | cavalier      | haughty disregard of others               | like when lebron left lel  |
+| cede          | to give up, relinquish, surrender         |   |
 | charlatan     | one who feigns knowledge; imposter |  |
 | chary         | cautious, suspiciously reluctant          |    |
 | choleric      | irascible, angry, passionate, hotheaded   | like cholera, bad news         |
@@ -59,6 +61,7 @@
 | dissolution   | 1. breakup 2. indulgence in pleasure      | not a solution to a good life  |
 | docile        | passive, obedient, submissive             | calm                           |
 | dolorous      | sad                                       | guy from GoT was always EDD    |
+| ebullient     | cheerful and full of energy               |     |
 | effrontery    | an arrogant attitude that is insulting    |     |
 | elucidate     | to make clear                             | lucid means clear              |
 | enumerate     | specify individually                      | number out                     |
@@ -75,7 +78,9 @@
 | facile        | arrived at without due diligence or care  | fast ill  |
 | factious      | dissenting, divided                       | like faction |
 | fawning       | obseqious, overly servile                 | pawn can be a servant?         |
+| fetid         | stinky, smelly                            |    |
 | flagging      | declining in strength                     | a flag is limp, which is weak  |
+| flit          | to pass quickly or abruptly from one place to another |   |
 | flush         | to be in abundance                        | flush makes abundant water |
 | forbear       | to not do something |  |
 | gambit        | a move in a game or conversation to gain advantage |    |
@@ -100,6 +105,7 @@
 | indignant     | feeling anger over a perceived injustice  |         |
 | ineffable     | too sacred to be uttered; impossible to describe in words |   |
 | inimical      | not friendly                              | not michael            |
+| inscrutable   | recondite, abstruse, incomprehensible     |     |
 | insipid       | dull and uninteresting                    |   || inured        | made tough my habitual exposure, hardened |            |
 | inured        | accustom someone to something, condition  |     |
 | irresolute    | nonplussed, not sure what to do           | not resolved    |
@@ -157,6 +163,7 @@
 | quixotic      | wildly idealistic, impractical
 | raffish       | carefree unconventionality                |   |
 | rakish        | 1. not stylish 2. unconventional          | rakes are not sylish nor uncon |
+| rambunctious  | uncontrollably exuberant; boisterous      |    |
 | rarefy        | to make something less dense; to refine|    |
 | ravenous      | extremely hungry                          | like ravens, they will devour  |
 | recalcitrant  | intractability towards discipline         | in french means to kick back   |
