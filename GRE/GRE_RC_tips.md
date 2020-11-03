@@ -1,4 +1,7 @@
-- take 6 minutes at the end to proofread
-- In your head, be CLEAR about what you
-  will be writing down. Think about it 
-  more to help yourself out
+## Main purpose questions
+
+* Look for the broadest/most vague answer. 9/10 this will be the correct one.
+
+## Inference Questions
+
+* suggested/inferred by the passage? Look for blatant evidence in the passage.
