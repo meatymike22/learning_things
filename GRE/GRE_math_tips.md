@@ -1,14 +1,131 @@
+[Guide to Mardown Language](https://guides.github.com/features/mastering-markdown/)
+
 # GRE math tips:
 
-## picking numbers for comparison:
+
+## Common Trick questions tips
+
+* integers means a whole number, and includes negatives and positives. Do not get tricked 
+  and only use positive numbers if the question simply says "integer"
+* If the questions uses the word "numbers" this implies you can use decimals. Do not only
+  use integers, or whole numbers in this case
+* If the word "different" or "distinct" numbers/ integers isnt used, and there are multiple
+  variables, make sure to use the same number/integer for each value
+* Don't assume anything. Always look for key words as these can give unequivocal insight 
+  into exactly what the question is asking.
+
+## picking numbers for comparison
+
 ### pick extremes
   * pick the lowest number possible, and then a number much bigger than that
   * dont pick numbers right next to eachother unless the question asks for it
 
 
+## Quartiles, box plots, percentiles
+
+* to get 1st or lower quartile, take the first half of a set and get median
+* to get 3rd or upper quartile, take the second half of set and get median
+* For box plots:
+
+     lower quartile        median   upper quartile
+min  |-----------------------|------|           max value
+|----|                       |      |-----------|
+     |-----------------------|------|
+
+
+## Weighted Averages 
+
+### Example
+
+* For thee, first spot the middle number
+* Find the distances between each endpoint and the middle number
+* Switch the distances to find the ratio
+* if a ratio is in decimal form, convert it to integer
+
+A theatre sells only matinee tickets and evening tickets. The matinee tickets are priced
+at $5 and the evening tickets are priced at $9. If the theatre sold 120 tickets for an
+average price of $7.50, how many of those tickets evening tickets?
+
+5--------------7.5-------------9
+       2.5             1.5
+            1.5:2.5 = 3:5
+              3+5 = 8
+               3/8 : 5/8 * 120 = 45:75
+
+## Prime factorization & Factorization
+
+### Example
+
+If an integer if divisible by both 8 and 15, the the integer is also divisible by which
+of the following?
+
+a.16 b.24 c.32 d.36 e.45
+
+* 8 -> 2^3 15 -> 3 x 5
+
+* 16: 2^4, 24: 2^3 x 3 ....
+* the answer's prime factors have to be less than or equal to the integer in question
+* 24 is the only answer that can satisfy these conditions
+
+### How to find all the factors in an integer
+
+1. Prime factorize
+2. add 1 to all exponents, then multiply them together
+
+* How many factors in 999
+
+* 999: 3^3 x 37^1
+*        |      | 
+*        v      v
+*        4 x    2 = 8
+
+### Another common Example
+
+
 ## percentage:
+
 * a as a percentage of b is a/b x 100
 
+* A was approximately what percent greater than B?
+* B is after the word than
+* ((A-B)/B)  x 100
+
+## Remainders
+
+### Example
+
+If x is divided by 6, the remainder is 3.
+
+* If x is divided by 6[6 times tables] the remainder is 3[plus 3].
+* 6x0+3 = 3
+* 6x1+3 = 9
+* 6x2+3 = 15
+* 6x3+3 = 21
+
+## Functions
+
+* Sometimes, substituting answer choices is faster than trying to solve 
+  difference of squares.
+* Also, the harder a function question gets the better it is to pick numbers in answers
+
+### Example
+
+F(x) = x^2 + x
+F(2t) = 30
+
+* 4t^2 + 2t -30 = 0
+* Substitute in all answers here.
+
+### Harder Example
+
+       | x - 1 if x is even
+f(x) = | 
+       | x + 1 if x is odd
+
+f(a) + f(b) = a + b
+
+* To answer this question correctly, be sure to use the answers, and plug into the variables.
+  Try out each one until one fits. This is the only way to do it really.
 
 ## Triangles:
 
@@ -32,6 +149,8 @@
 *tip to remember*: terms on the bottom will always add up to the term at the top
 
 **different from permutations**: permutations are for when the _order_ matters
+
+* __(n!)/(r!)__
 
 ### Good question:
 * There are 6 women and 5 men. We want to select 2 women and 2 men. How many ways are there

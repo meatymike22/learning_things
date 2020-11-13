@@ -2,9 +2,9 @@
 
 ## Crypto & PKI Cryptography
 
-  _*Confidentiality*_: Encryption ~ unauthorized access, in storage, in transit
-  _*Integrity*_: hashes/digests/checksums ~ in storage, in transit, in use/process
-  _*Availability*_: fault tolerance ~ backups, acceptable levels of access
+  _Confidentiality_: Encryption - unauthorized access, in storage, in transit
+  _Integrity_: hashes/digests/checksums - in storage, in transit, in use/process
+  _Availability_: fault tolerance - backups, acceptable levels of access
 
 * Steganography: hiding data in plain sight
 
@@ -48,9 +48,10 @@
 
 #### Hashing
 
-_* MOST COMMON HASHES (must know for exam) _*
+__MOST COMMON HASHES (must know for exam)__
 
 | protocol     | MD5 | SHA1 | SHA2 | SHA3    |
+|--------------|-----|------|------|---------|
 | size in bits | 128 | 160  | 256  | 256-512 |
 
 * the digest string uses hex characters. Md5 is 32 hex bits long (hex is 4 bits long)
@@ -91,6 +92,7 @@ Ciphers:
 
 
 |                    | AES   | 3DES  | RSA   | ECC  | DSA   | RC4    |
+|--------------------|-------|-------|-------|------|-------|--------|
 | type of encryption | sym   | sym   | asym  | asym | asym  | sym    |
 | type of cipher     | block | block | block | blok | block | stream |
 
