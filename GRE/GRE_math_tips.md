@@ -14,6 +14,11 @@
 * Don't assume anything. Always look for key words as these can give unequivocal insight 
   into exactly what the question is asking.
 
+* Square roots are acceptable plug-ins especially if x^2 is an integer. Do not discount any
+  possible value to plug-in and be creative. 
+* ___0 IS A NON-NEGATIVE EVEN INTEGER!!!!!!___ Make sure to always include 0 unless the 
+  question explicitly excludes it
+
 ## picking numbers for comparison
 
 ### pick extremes
@@ -31,6 +36,21 @@
 min  |-----------------------|------|           max value
 |----|                       |      |-----------|
      |-----------------------|------|
+
+
+## Averages
+
+* Average(mean) = Sum / number of terms
+* this can be manipulated... n x average = sum
+
+### Example
+
+Kim scored an average of 500 points on her first 3 tests. After her 4th test, her average
+jumped to 550. What did Kim score on her 4th test?
+
+* 500 x 3 = 1500 total
+* 550 x 4 = 2200 total
+* 2200-1500 = 700 
 
 
 ## Weighted Averages 
@@ -79,7 +99,30 @@ a.16 b.24 c.32 d.36 e.45
 *        v      v
 *        4 x    2 = 8
 
-### Another common Example
+### Least Common Multiple and Highest Common factor
+
+LCM and HCF of 60 and 72?
+
+* Step 1: prime factorize
+* 60: 2^2 x 3^1 x 5^1
+* 72: 2^3 x 3^2
+* for LCM, Pick the biggest numbers in each column: 2^3 x 3^2 x 5^1 = 360
+* for HCF, Pick the smallest numbers in each column: 2^2 x 3^1 = 12
+
+#### Example
+
+3 trains leave a station at 9am. A leaves every 14min, B every 18min, C every 20 min.
+When will they leave altogether?
+
+* Prime factorize
+
+| Num  |   |    |   |   |
+|------|---|----|---|---|
+|14    |2^1|    |   |7^1|
+|18    |2^1|3^2 |   |   |
+|20    |2^2|    |5^1|   |
+
+LCM: 2^2 x 3^2 x 5 x 7 = 1260 min = 21 hours = 6am next day
 
 
 ## percentage:
@@ -176,6 +219,17 @@ of selecting 2 women AND 2 men from the people available?
   1. green and green = 5/8 X 4/7 = 5/14
   2. Red and red OR green and green = 5/8 X 4/7 + 3/8 X 2/7 = 13/28
   3. red and green OR green and red = 3/8 X 5/7 + 5/8 X 3/7 = 15/28
+
+### Another example
+
+a 6 sided die is rolled 3 times. What is the probability that the dice rolls two even numbers
+and one odd number (not in order)?
+
+* choices:
+
+* eee, eeo, eoe, eoo, oee, oeo, ooe, ooo
+* eeo, eoe, oee
+* 3/8 probability
 
 
 ## Median:
