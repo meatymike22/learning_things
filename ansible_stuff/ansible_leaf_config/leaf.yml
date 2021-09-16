@@ -1,0 +1,8 @@
+---
+
+# playbook that uses leaf role to configure nxos leaf
+
+- hosts: leafX
+  connection: local
+  roles:
+    - leaf

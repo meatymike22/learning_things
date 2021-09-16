@@ -1,0 +1,15 @@
+---
+nxos_provider:
+  username: "{{ ansible_user }}"
+  password: "{{ ansible_password }}"
+  transport: nxapi
+  timeout: 30
+  host: "{{ inventory_hostname }}"
+
+leaf_asn: 64511
+
+bgp_neighbors:
+- { remote_as: 64496, neighbor: 10.10.1.1}
+- { remote_as: 64496, neighbor: 10.20.1.1}
+- { remote_as: 64496, neighbor: 10.30.1.1}
+- { remote_as: 64496, neighbor: 10.40.1.1}

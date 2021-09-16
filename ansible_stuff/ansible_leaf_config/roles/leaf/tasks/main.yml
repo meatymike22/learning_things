@@ -1,0 +1,31 @@
+---
+
+# task to configure L3 leaf switchports
+- name: Assign IPs to switchports 49-52
+  cisco.nxos.nxos_l3_interface:
+    aggregate:
+    - {name: "Ethernet1/49", ipv4: "10.10.1.2/24"}
+    - {name: "Ethernet1/50", ipv4: "10.20.1.2/24"} 
+    - {name: "Ethernet1/51", ipv4: "10.30.1.2/24"} 
+    - {name: "Ethernet1/52", ipv4: "10.40.1.2/24"} 
+#task to add spine BGP neighbors
+- name: Enable BGP
+  nxos_feature:
+    feature: bgp
+    provider: "{{nxos_provider}}"
+    state: enabled
+  tags: bgp
+- name: Configure BGP AS
+  nxos_bgp:
+    asn: "{{ leaf_asn }}"
+    provider: "{{ nxos_provider }}"
+    state: present
+  tags: bgp
+- name: Configure BGP neighbors
+  nxos_bgp_neighbor:
+    asn: "{{ asn }}"
+    neighbor: "{{ item.neighbor }}"
+    remote_as: "{{ item.remote_as }}"
+    provider: "{{ nxos_provider }}"
+  with_items: "{{ bgp_neighbors }}"
+  tags: bgp

@@ -1,0 +1,5 @@
+all:
+  ansible_user: my_user
+  ansible_pass: my_pass
+  ansible_network_os: cisco.nxos
+  
